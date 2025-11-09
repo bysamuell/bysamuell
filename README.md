@@ -10,7 +10,7 @@
 
   <samp>
       <br>
-      Eu sou <b>F4CD7Samuel Uelton</b>
+      Eu sou <b>Samuel Uelton</b>
   </samp>
 </div>
 
