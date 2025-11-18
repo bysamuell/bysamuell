@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
 <br>
 <br>
 <br>
@@ -24,11 +27,11 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=bysamuell&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysamuell&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bysamuell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&card_width=500"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysamuell&layout=compact&langs_count=10&theme=dracula&locale=pt-br&border_radius=10&title_color=00bfbf&text_color=c9d1d9&card_width=50"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=bysamuell&theme=dracula&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=760&border_radius=10&title_color=00bfbf&text_color=c9d1d9&sideLabels=00bfbf&sideNums=00bfbf&border=EFEFEF&fire=00bfbf&currStreakNum=00bfbf&currStreakLabel=00bfbf&ring=00bfbf&stroke=EFEFEF"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bysamuell&theme=ayu_mirage"/>
 </div>
 
 <div align="center">
@@ -94,3 +97,5 @@
 <br>
 <br>
 <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
