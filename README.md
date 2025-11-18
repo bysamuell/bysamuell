@@ -89,6 +89,14 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=bysamuell&style=flat-square&color=755b25" /></p> 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bysamuell/bysamuell/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bysamuell/bysamuell/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bysamuell/bysamuell/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <br>
 <br>
 <br>
