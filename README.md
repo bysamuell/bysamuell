@@ -18,7 +18,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=13&pause=1000&color=F4CD7C&background=FF000000&vCenter=true&width=435&lines=Muito+prazer%2C+sou+estudante+de+ADS+com+foco+em+Full-Stack" alt="Typing SVG" /></a>
+  <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=13&pause=1000&color=F4CD7C&background=FF000000&vCenter=true&width=435&lines=Muito+prazer%2C+sou+estudante+de+ADS+com+foco+em+Backend" alt="Typing SVG" /></a>
 </div>
 
 <br>
